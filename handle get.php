@@ -1,7 +1,11 @@
 <html>
 <body>
-<h1> GET RESPONSE </h1>
-Welcome <?php echo $_GET["name"]; ?><br>
-Your email address is: <?php echo $_GET["email"]; ?>
+
+<form action="registration.php" method="get">
+Name: <input type="text" name="name">
+Email: <input type="text" name="email">
+<input type="submit">
+</form>
+
 </body>
-</html>
+</html> 
