@@ -2,8 +2,8 @@
 <!doctype html>
 <html lang = "en">
 <body>
-<h1 style="color:blue; text-align:center;">Welcome to Sana Yari's Homework 2!</h1>
-<p style="color:red; text-align:center;">Enter your Name and Email Address please!</p>
+<h1 style="color:blue; text-align:center;">Welcome to Amir's Homework 2!</h1>
+<p style="color:red; text-align:center;">Please enter your Name and Email Address please!</p>
 <br></br>
 <p style="text-align:center;">
 <h2 style="text-align:center;"> POST - Function </h2>
