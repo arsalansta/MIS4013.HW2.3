@@ -10,15 +10,21 @@
 <form action="handlepost.php" method="post">
 <p > Name: <input type="text" name="name"></p><br>
 <p > E-mail: <input type="text" name="email"></p><br>
-<p "><input type="submit"></p>
+<p "><input type="submit">
+                         </p>
+  </form>
+                         
 <br></br>
 <h2 > GET - Function </h2>
+                         
 <form action="handleget.php" method="get">
 <p > Name: <input type="text" name="name"></p><br>
 <p > E-mail: <input type="text" name="email"></p><br>
 <p ><input type="submit"></p>
+                        
+             </form>             
 <br></br>
-</form>
-</form>
+
+
 </html>
 </body>
