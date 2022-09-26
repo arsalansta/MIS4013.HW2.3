@@ -13,7 +13,7 @@
 <p "><input type="submit"></p>
 <br></br>
 <h2 > GET - Function </h2>
-<form action="welcome_get.php" method="get">
+<form action="handleget.php" method="get">
 <p > Name: <input type="text" name="name"></p><br>
 <p > E-mail: <input type="text" name="email"></p><br>
 <p ><input type="submit"></p>
