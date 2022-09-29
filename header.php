@@ -23,7 +23,7 @@
         <a class="nav-link" href="http://mis.hw2.6.amiresta.oucreate.com/">Home </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="mis4013.hw1.amiresta.oucreate.com">HomeWork1</a>
+        <a class="nav-link" href="http://mis4013.hw1.amiresta.oucreate.com">HomeWork1</a>
       </li>
       
       
