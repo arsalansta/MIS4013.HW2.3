@@ -5,6 +5,7 @@
 <html lang = "en">
 	
 	
+	
 <body>
   
 
@@ -14,7 +15,8 @@
   
     </br>
 	<div class="center">Welcome <?php echo $_POST["name"]; ?>
+		</br>
 	
-	your email address is: <?php echo $_POST["email"]; ?></div>
+	your email address is: <?php echo $_POST["email"]; ?> </div>
 </body>
 </html>
