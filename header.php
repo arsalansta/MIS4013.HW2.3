@@ -35,15 +35,4 @@
 		 
 		 
 		 <title>Homework 2</title>
-		 
-		 
-		 
-		 
-		 
- </head>
 
-
-
-
-
- <body>
