@@ -2,15 +2,7 @@
 <!doctype html>
 <html lang = "en">
   
-  <style>
-.center {
-  margin: auto;
-  width: 60%;
-  border: 3px solid #000000;
-  padding: 10px;
-}
-</style>
-  
+
     
     
 <body>
