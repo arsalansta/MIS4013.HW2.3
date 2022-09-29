@@ -6,9 +6,7 @@
 <html lang = "en">
   
 
-<form action="http://mis.hw2.6.amiresta.oucreate.com">
-         <button type="submit">Main Page</button>
-      </form>
+
   
   
   
