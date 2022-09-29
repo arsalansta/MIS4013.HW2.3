@@ -13,9 +13,31 @@
   </br>
   </br>
 
-<p >Please enter your Name and Email Address please!</p>
+<div> <p >Please enter your Name and Email Address please!</p> </div>
 <br></br>
+
+
+
+<div class="container text-center">
+  <div class="row">
+    <div class="col">
+      Get function
+    </div>
+    <div class="col">
+      post fuction
+    </div>
+    
+  </div>
+</div>
+
+
+
+
+
+
+
 <p >
+  
 <h2 > POST - Function </h2>
 <form action="handlepost.php" method="post">
 <p > Name: <input type="text" name="name"></p><br>
