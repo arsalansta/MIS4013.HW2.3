@@ -8,11 +8,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title of the document</title>
+    <title>Main Page</title>
   </head>
   <body>
     <button onclick="mis.hw2.6.amiresta.oucreate.com';">
-      Click Here
+    Main Page
     </button>
   </body>
 </html>
