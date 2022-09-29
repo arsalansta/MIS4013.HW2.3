@@ -11,7 +11,7 @@
     <title>Main Page</title>
   </head>
   <body>
-    <button onclick="window.location.href='mis.hw2.6.amiresta.oucreate.com';">
+    <button onclick="href='mis.hw2.6.amiresta.oucreate.com';">
     Main Page 
     </button>
   </body>
