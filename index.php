@@ -36,13 +36,30 @@
 
 
 
-<div class="container text-center">
+<div class="center">
   <div class="row">
     <div class="col">
       Get function
     </div>
     <div class="col">
       post fuction
+      <h2 > GET - Function </h2>
+                         
+<form action="handleget.php" method="get">
+<p > Name: <input type="text" name="name"></p><br>
+<p > E-mail: <input type="text" name="email"></p><br>
+<p ><input type="submit"></p>
+                        
+             </form>  
+      
+      <h2 > POST - Function </h2>
+<form action="handlepost.php" method="post">
+<p > Name: <input type="text" name="name"></p><br>
+<p > E-mail: <input type="text" name="email"></p><br>
+<p "><input type="submit">
+                         </p>
+  </form>
+      
     </div>
     
   </div>
@@ -56,23 +73,10 @@
 
 <p >
   
-<h2 > POST - Function </h2>
-<form action="handlepost.php" method="post">
-<p > Name: <input type="text" name="name"></p><br>
-<p > E-mail: <input type="text" name="email"></p><br>
-<p "><input type="submit">
-                         </p>
-  </form>
+
                          
 <br></br>
-<h2 > GET - Function </h2>
-                         
-<form action="handleget.php" method="get">
-<p > Name: <input type="text" name="name"></p><br>
-<p > E-mail: <input type="text" name="email"></p><br>
-<p ><input type="submit"></p>
-                        
-             </form>             
+           
 <br></br>
 
 
