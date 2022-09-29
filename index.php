@@ -13,7 +13,7 @@
   </br>
   </br>
 
-<div style=center> <p >Please enter your Name and Email Address please!</p> </div>
+<div style="center"> <p >Please enter your Name and Email Address please!</p> </div>
 <br></br>
 
 
