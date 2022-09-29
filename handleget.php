@@ -1,7 +1,9 @@
 <html>
 <body>
   
-  
+  	<?php require_once("header.php"); ?>
+<!doctype html>
+<html lang = "en">
   
 
 <form action="http://mis.hw2.6.amiresta.oucreate.com">
