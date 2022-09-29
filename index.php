@@ -39,10 +39,25 @@
 <div class="center">
   <div class="row">
     <div class="col">
+      
+      
       Get function
+      
+      <h2 > POST - Function </h2>
+<form action="handlepost.php" method="post">
+<p > Name: <input type="text" name="name"></p><br>
+<p > E-mail: <input type="text" name="email"></p><br>
+<p "><input type="submit">
+                         </p>
     </div>
+                         
+                         
+                         
+                         
     <div class="col">
+                    
       post fuction
+                    
       <h2 > GET - Function </h2>
                          
 <form action="handleget.php" method="get">
@@ -58,12 +73,7 @@
     </div>
     
   </div>
-<h2 > POST - Function </h2>
-<form action="handlepost.php" method="post">
-<p > Name: <input type="text" name="name"></p><br>
-<p > E-mail: <input type="text" name="email"></p><br>
-<p "><input type="submit">
-                         </p>
+
 </div>
 
 
