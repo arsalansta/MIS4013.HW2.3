@@ -10,7 +10,7 @@
 
 	  
 
-  <div class="center"><h1> Post RESPONSE </h1></div>
+  <div class="center"><h1> Get RESPONSE </h1></div>
   
     </br>
 	<div class="center">Welcome <?php echo $_POST["name"]; ?>
