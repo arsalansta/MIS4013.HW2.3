@@ -42,5 +42,8 @@
   border: 3px solid #000000;
   padding: 10px;
 }
+	  h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
 </style>
   
