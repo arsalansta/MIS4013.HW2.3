@@ -20,7 +20,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="http://mis.hw2.6.amiresta.oucreate.com/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="http://mis.hw2.6.amiresta.oucreate.com/">Home </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="mis4013.hw1.amiresta.oucreate.com">HomeWork1 Link</a>
