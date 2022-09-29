@@ -12,9 +12,9 @@
   
   
   
-  <div><h1> GET RESPONSE </h1></div>
+  <div class="center"><h1> GET RESPONSE </h1></div>
   
-<div>Welcome <?php echo $_GET["name"]; ?><br>
+<div class="center">Welcome <?php echo $_GET["name"]; ?><br>
   Your email address is: <?php echo $_GET["email"]; ?></div>
 </body>
 </html>
