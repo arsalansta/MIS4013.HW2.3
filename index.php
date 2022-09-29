@@ -8,15 +8,30 @@
     
 <body>
 <h1 >Welcome to Amir's Homework 2!</h1>
+  
+  <style>
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+  
+  
   </br>
     </br>
   </br>
   </br>
 
-<div margin: auto;
-  width: 50%;
-  border: 3px solid black;
-  padding: 10px;> <p >Please enter your Name and Email Address please!</p> </div>
+
+
+
+
+<div > <p>Please enter your Name and Email Address please!</p> 
+</div>
+
+
 <br></br>
 
 
