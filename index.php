@@ -6,7 +6,7 @@
 .center {
   margin: auto;
   width: 60%;
-  border: 3px solid #73AD21;
+  border: 3px solid #black;
   padding: 10px;
 }
 </style>
@@ -19,13 +19,13 @@
 
   
 
-
+  </br>
 
 
 <div class="center"> <p>Please enter your Name and Email Address please!</p> 
 </div>
 
-
+  </br>
 
 
 
