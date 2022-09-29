@@ -28,7 +28,7 @@
 
 
 
-<div > <p>Please enter your Name and Email Address please!</p> 
+<div class="center"> <p>Please enter your Name and Email Address please!</p> 
 </div>
 
 
