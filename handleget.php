@@ -4,12 +4,11 @@
   
   
 
+<form action="http://mis.hw2.6.amiresta.oucreate.com">
+         <button type="submit">Main Page</button>
+      </form>
   
-
-    <button onclick="href='mis.hw2.6.amiresta.oucreate.com';">
-    Main Page 
-    </button>
-
+  
   
 <h1> GET RESPONSE </h1>
 Welcome <?php echo $_GET["name"]; ?><br>
