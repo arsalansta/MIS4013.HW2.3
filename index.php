@@ -2,13 +2,6 @@
 <!doctype html>
 <html lang = "en">
   
-
-  
-    
-    
-<body>
-<h1 >Welcome to Amir's Homework 2!</h1>
-  
   <style>
 .center {
   margin: auto;
@@ -17,6 +10,13 @@
   padding: 10px;
 }
 </style>
+  
+    
+    
+<body>
+<h1 class="center" >Welcome to Amir's Homework 2!</h1>
+  
+
   
   
   </br>
