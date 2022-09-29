@@ -6,7 +6,7 @@
 .center {
   margin: auto;
   width: 60%;
-  border: 3px solid #black;
+  border: 3px solid #000000;
   padding: 10px;
 }
 </style>
