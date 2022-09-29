@@ -8,6 +8,11 @@
     
 <body>
 <h1 >Welcome to Amir's Homework 2!</h1>
+  </br>
+    </br>
+  </br>
+  </br>
+
 <p >Please enter your Name and Email Address please!</p>
 <br></br>
 <p >
