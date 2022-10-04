@@ -9,7 +9,31 @@
 <h1 class="center" >Welcome to Amir's Homework 2!</h1>
   
 
-  
+    <li class="nav-item">
+        <a class="nav-link" href="course-section.php">course-section</a>
+      </li>
+		
+	<li class="nav-item">
+        <a class="nav-link" href="courses.php">Courses</a>
+      </li>
+	
+	<li class="nav-item">
+        <a class="nav-link" href="instructor-cards.php">instructor cards</a>
+      </li>
+		
+	<li class="nav-item">
+        <a class="nav-link" href="instructor-section.php">instructor-section</a>
+      </li>
+		
+		
+	<li class="nav-item">
+        <a class="nav-link" href="instructors.php">instructors</a>
+      </li>
+		
+		
+	<li class="nav-item">
+        <a class="nav-link" href="sections.php">sections</a>
+      </li>
 
   </br>
 
