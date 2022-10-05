@@ -55,10 +55,10 @@ div {text-align: center;}
 	
 			 <?php
 function writeMsg() {
-  echo "You are done now !";
+  echo "this is a PHP function stored in the header and called in the index page !";
 }
 
-writeMsg();
+
 ?>
 
 		
