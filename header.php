@@ -1,12 +1,11 @@
-	 <head>
-		
-		 <?php
-function writeMsg() {
-  echo "Hello world!";
-}
+	
+	<!doctype html>
+<html lang = "en">
 
+<head>
+		 
+		 
 
-?>
 		 
 		 
  <meta charset="utf-8">
@@ -53,4 +52,7 @@ p {text-align: center;}
 div {text-align: center;}
 </style>
    </head>
+
+		
+
 <body>
