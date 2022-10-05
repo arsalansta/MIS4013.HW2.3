@@ -21,11 +21,11 @@ function writeMsg() {
   echo "You are done now !";
 }
 
-
+writeMsg();
 ?>
 
 
-writeMsg();
+
 
 
 
