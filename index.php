@@ -67,7 +67,11 @@
 
 
 <p >
-  
+  	
+<?php
+
+writeMsg();
+?>
 
                          
 <br></br>
