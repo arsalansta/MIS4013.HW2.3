@@ -61,11 +61,6 @@
 </div>
 
   	
-<?php
-
-writeMsg();
-?>
-
 
 
 
@@ -73,6 +68,11 @@ writeMsg();
 
 <br></br>
                         
+<?php
+
+writeMsg();
+?>
+
 
                          
 
