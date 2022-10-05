@@ -5,7 +5,7 @@
 
     
     
-<body>
+
 <h1 class="center" >Welcome to Amir's Homework 2!</h1>
   
 
@@ -78,4 +78,4 @@
 
 
 </html>
-</body>
+
