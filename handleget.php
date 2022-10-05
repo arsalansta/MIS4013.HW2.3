@@ -16,13 +16,7 @@
   Your email address is: <?php echo $_GET["email"]; ?></div>
 
 
-		 <?php
-function writeMsg() {
-  echo "You are done now !";
-}
 
-writeMsg();
-?>
 
 
 
