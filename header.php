@@ -52,6 +52,14 @@ p {text-align: center;}
 div {text-align: center;}
 </style>
    </head>
+	
+			 <?php
+function writeMsg() {
+  echo "You are done now !";
+}
+
+writeMsg();
+?>
 
 		
 
