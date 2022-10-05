@@ -1,6 +1,12 @@
 	 <head>
 		
-		 
+		 <?php
+function writeMsg() {
+  echo "Hello world!";
+}
+
+
+?>
 		 
 		 
  <meta charset="utf-8">
