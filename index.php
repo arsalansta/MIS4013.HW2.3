@@ -67,7 +67,7 @@
 
 
 <br></br>
-                        
+        <div class="center">                
 <?php
 
 writeMsg();
@@ -75,7 +75,7 @@ writeMsg();
 
 
                          
-
+                        </div>
            
 <br></br>
 
